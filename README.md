@@ -143,7 +143,7 @@ Open-source projects are strongest in:
 
 # 🧩 Open-Source Repositories
 
-> **Note:** Open-source projects are sorted by **GitHub Star Count (descending)**. Each repository name features a live star count badge linking directly to its stargazers page.
+> **Note:** Open-source projects are sorted by **GitHub Stars_Count (descending)**. Each repository name features a live Stars_Count badge linking directly to its stargazers page.
 
 | Repository | Stars ⭐ | Category & Key Capabilities | License |
 | :--- | :---: | :--- | :---: |
