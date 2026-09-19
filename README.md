@@ -125,24 +125,6 @@ Perx     AdhereTech Scene      MedAssist OpenEMR     Superset
 
 Commercial products frequently combine proprietary hardware, mobile applications, behavioral-science programs, clinical workflows, regulated healthcare infrastructure, device telemetry and enterprise services.
 
-Open-source projects are strongest in:
-
-* Medication tracking
-* Medication reminders
-* Dose history
-* Inventory management
-* Self-hosting
-* Personal health records
-* FHIR interoperability
-* Notifications
-* Caregiver coordination
-* Analytics
-* Application development
-
----
-
-# 🧩 Open-Source Repositories
-
 > **Note:** Open-source projects are sorted by **GitHub Stars_Count (descending)**. Each repository name features a live Stars_Count badge linking directly to its stargazers page.
 
 | Repository | Stars ⭐ | Category & Key Capabilities | License |
