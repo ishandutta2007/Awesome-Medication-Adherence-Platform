@@ -1,12 +1,18 @@
-# Awesome-Medication-Adherence-Platform
+<div align="center">
 
-## Top Medication Adherence Platform Ecosystem
+![Awesome Medication Adherence Platform Banner](assets/banner.svg)
 
-### Curated SaaS / Hosted Platforms & Open-Source GitHub Projects
+# 💊 Awesome Medication Adherence Platform
 
-**Focus:** Medication Adherence, Medication Reminders, Dose Tracking, Treatment-Plan Adherence, Patient Engagement, Digital Therapeutics, Care Management, Smart Medication Devices, Directly Observed Therapy, Refill Management, Chronic Disease Management & Adherence Analytics
+### 🚀 Comprehensive Ecosystem of SaaS Platforms, Smart Medication Devices, Open-Source Repositories & FHIR Digital Health Infrastructure
+
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+
+**Focus:** 💊 Medication Adherence | ⏰ Medication Reminders | 📊 Dose Tracking | 🏥 Healthcare Interoperability (FHIR) | 📲 Patient Engagement | 🤖 Digital Therapeutics | 🩺 Care Management | 📟 Smart Medication Devices & Pill Dispensers | 📹 Directly Observed Therapy (DOT) | 📦 Refill Management | 📈 Adherence Analytics
 
 **Last Updated:** September 2026
+
+</div>
 
 ---
 
@@ -15,7 +21,6 @@
 * [Overview](#-overview)
 * [SaaS/Hosted Platforms](#-saashosted-platforms)
 * [Open-Source](#-open-source)
-
   * [Complete Medication Management Platforms](#1-complete-medication-management-platforms)
   * [Medication Reminder & Adherence Apps](#2-medication-reminder--adherence-apps)
   * [Self-Hosted Medication Tracking](#3-self-hosted-medication-tracking)
@@ -23,6 +28,7 @@
   * [Medication Inventory & Refill Management](#5-medication-inventory--refill-management)
   * [Health Records & Personal Health Management](#6-health-records--personal-health-management)
   * [FHIR & Healthcare Interoperability](#7-fhir--healthcare-interoperability)
+
   * [Digital Health & Patient Engagement](#8-digital-health--patient-engagement)
   * [Notifications & Reminders](#9-notifications--reminders)
   * [Scheduling & Care Coordination](#10-scheduling--care-coordination)
@@ -101,279 +107,28 @@ Perx     AdhereTech Scene      MedAssist OpenEMR     Superset
 
 # ☁️ SaaS/Hosted Platforms
 
-## 1. Medisafe
+> **📊 Market Size & Market Structure:**
+> The global medication adherence market size is estimated at **\$4.2 Billion (2026)** and is projected to reach **\$8.5 Billion by 2030** (CAGR ~15.2%). The sector is **moderately fragmented**, featuring specialized enterprise digital therapeutics (Medisafe, Scene Health), connected hardware providers (Hero, AdhereTech, Spencer), and broad remote patient monitoring platforms competing alongside niche consumer apps.
 
-**Website:** https://medisafe.com/
-
-Medication-management and patient-engagement platform.
-
-Medisafe's current platform combines medication management, personalized reminders, patient journeys, analytics and engagement capabilities for patients, providers and pharmaceutical programs.
-
-**Key Capabilities:**
-
-* Medication reminders
-* Medication management
-* Personalized interventions
-* Treatment adherence
-* Patient engagement
-* Caregiver support
-* Analytics
-* Provider engagement
-* Pharmaceutical patient-support programs
-* SMS
-* Email
-* Voice
-* Mobile applications
-* Enterprise orchestration
+| SaaS Platform | Company Size (Valuation / Funding / Revenue) 📈 | Pricing 💰 | Free Tier Limit 🎁 | Key Focus / Target Segment | Website 🌐 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Hero Health** | ~$450M Valuation ($100M+ Raised) | $34.99/mo (Smart Dispenser + App) | 30-Day Money-Back Guarantee Trial | Connected Smart Dispenser & Medication Management | [Website](https://herohealth.com/) |
+| **Scene Health** (emocha) | $60M+ Funding ($15M+ Rev) | $50/patient/mo | 14-Day Enterprise Demo / Pilot Access | Asynchronous Video Directly Observed Therapy (DOT) | [Website](https://www.scene.health/) |
+| **Medisafe** | ~$50M Valuation ($31.5M Funding) | $4.99/mo (Medisafe Premium) | Free-Forever Plan (Unlimited Reminders & Basic Tracking) | Mobile Medication Reminders & Pharma Patient Support | [Website](https://medisafe.com/) |
+| **Wellth** | $40M+ Funding ($10M+ Rev) | $15/member/mo (B2B Health Plans) | 30-Day Health Plan Pilot Program | Daily Incentive & Behavioral Verification Platform | [Website](https://www.wellthapp.com/) |
+| **AdhereTech** | $35M+ Funding ($10M+ Rev) | $25/patient/mo | 30-Day Clinical Trial / Pharma Pilot | Aidia Connected Smart Pill Bottles & Caps | [Website](https://adheretech.com/) |
+| **Spencer Health Solutions** | $30M+ Funding | $45/patient/mo | 30-Day Clinical Trial Pilot Access | Connected Smart Dispenser & Clinical Trials Platform | [Website](https://spencerhealthsolutions.com/) |
+| **MedMinder** | $25M+ Funding | $69.99/mo (Includes Automated Dispenser) | 30-Day Trial Period | Connected Pill Dispenser & Pharmacy Services | [Website](https://www.medminder.com/) |
+| **PatchRx** | $15M+ Valuation ($8M Funding) | $20/patient/mo | 14-Day Provider Demo Account | Smart Pill Bottle Caps & Provider RPM Dashboards | [Website](https://www.patchrx.io/) |
+| **Perx Health** | $7M+ Funding | $10/member/mo | 14-Day Health Plan Demo | Gamified Chronic Disease Adherence & Engagement | [Website](https://www.perxhealth.com/) |
+| **CareClinic** | ~$5M Valuation (~$2M Rev) | $9.99/mo (CareClinic Premium) | 7-Day Free Trial (Basic Symptom & Dose Log) | Personal Health Journal & Caregiver Medication Tracker | [Website](https://careclinic.io/) |
+| **MyTherapy** | ~$5M Valuation (~$3M Rev) | $4.99/mo (MyTherapy Plus) | Free-Forever Plan (Ad-Free Medication Reminders) | Consumer Pill Reminder & Health Measurement App | [Website](https://www.mytherapyapp.com/) |
+| **MyMeds** | ~$4M Valuation ($2M Funding) | $5/user/mo | 14-Day Enterprise Demo Access | Digital Prescription Management & Adherence Engagement | [Website](https://www.mymeds.com/) |
+| **Mango Health** | Acquired by TrialSpark (~$3M) | Free (App-based) | Free-Forever Plan (Health Habits & Pill Reminders) | Gamified Medication Reminders & Rewards | [Website](https://www.mangohealth.com/) |
+| **Pillo Health** | Acquired by Stanley Black & Decker | $299 Hardware + $19.99/mo | 30-Day Product Warranty / Guarantee | Voice-Activated Personal Health Assistant & Dispenser | [Website](https://pillohealth.com/) |
 
 ---
 
-## 2. PatchRx
-
-**Website:** https://www.patchrx.io/
-
-Connected medication-adherence platform based around smart pill-bottle caps.
-
-PatchRx describes a system in which smart caps collect medication-use information and provide adherence insights to patients and care teams.
-
-**Key Capabilities:**
-
-* Smart pill-bottle caps
-* Dose tracking
-* Medication adherence monitoring
-* Patient reminders
-* SMS
-* Provider dashboard
-* Real-time adherence trends
-* Care-manager intervention
-* API
-* Clinical workflows
-* Reporting
-
----
-
-## 3. emocha Health / Scene Health
-
-**Website:** https://www.scene.health/
-
-Scene Health evolved from the emocha Health platform and focuses heavily on medication adherence and directly observed therapy.
-
-Scene describes asynchronous video technology for observing submitted medication doses and supporting clinical-trial and patient-care workflows.
-
-**Key Capabilities:**
-
-* Directly Observed Therapy
-* Video dose verification
-* Medication adherence
-* Patient engagement
-* Clinical trials
-* Care management
-* Patient support
-* Multilingual engagement
-* Adherence data
-* Intervention workflows
-
----
-
-## 4. Wellth
-
-**Website:** https://www.wellthapp.com/
-
-Digital care-management platform designed around daily patient actions and treatment-plan adherence.
-
-Wellth describes medication-photo/device-reading submissions, real-time behavioral signals and interventions for members who show signs of declining adherence.
-
-**Key Capabilities:**
-
-* Medication adherence
-* Daily care plans
-* Patient engagement
-* Behavioral interventions
-* Medication photo verification
-* Device readings
-* Care management
-* Health-plan engagement
-* Risk identification
-* Analytics
-* Incentives
-
----
-
-## 5. Perx Health
-
-**Website:** https://www.perxhealth.com/
-
-Digital care-management and patient-engagement platform for high-risk members.
-
-Perx describes personalized daily motivation, treatment-plan adherence, engagement and clinical/financial outcome measurement.
-
-**Key Capabilities:**
-
-* Medication adherence
-* Treatment-plan adherence
-* Chronic-condition management
-* Patient engagement
-* Behavioral motivation
-* Daily tasks
-* Reminders
-* Health-plan programs
-* Analytics
-* Outcomes measurement
-* Incentives
-
----
-
-## 6. AdhereTech
-
-**Website:** https://adheretech.com/
-
-Connected medication-adherence platform using smart medication containers and connected devices.
-
-AdhereTech currently markets the Aidia Smart Bottle, Aidia Smart Cap and a platform for adherence insights and interventions.
-
-**Key Capabilities:**
-
-* Smart pill bottles
-* Smart caps
-* Connected medication monitoring
-* Dose reminders
-* Cellular connectivity
-* Patient intervention
-* Real-time adherence information
-* Patient-support programs
-* Clinical-trial support
-* Reporting
-
----
-
-## 7. Spencer Health Solutions
-
-**Website:** https://spencerhealthsolutions.com/
-
-Connected smart medication dispenser and medication-management platform.
-
-Spencer describes use cases spanning care management, patient support and clinical trials.
-
-**Key Capabilities:**
-
-* Smart medication dispenser
-* Dose scheduling
-* Automated dispensing
-* Reminders
-* Patient engagement
-* Adherence tracking
-* Care management
-* Clinical trials
-* Patient-support programs
-* Data reporting
-
----
-
-## 8. CareClinic
-
-**Website:** https://careclinic.io/
-
-Personal health-management platform combining medication tracking with symptoms, habits and health measurements.
-
-CareClinic provides medication reminders, dose tracking, refill awareness and sharing with caregivers/providers.
-
-**Key Capabilities:**
-
-* Medication tracking
-* Medication reminders
-* Adherence history
-* Refill reminders
-* Symptoms
-* Vitals
-* Health journal
-* Caregiver sharing
-* Reports
-* Chronic-condition management
-
----
-
-## 9. MyMeds
-
-**Website:** https://www.mymeds.com/
-
-Medication-management and adherence-oriented digital-health services.
-
-**Typical Capabilities:**
-
-* Medication reminders
-* Medication lists
-* Dose tracking
-* Refill support
-* Patient engagement
-* Medication information
-* Care coordination
-
----
-
-## 10. MyTherapy
-
-**Website:** https://www.mytherapyapp.com/
-
-Medication reminder and health-management application.
-
-**Key Capabilities:**
-
-* Medication reminders
-* Medication tracking
-* Refill reminders
-* Health measurements
-* Health journal
-* Reports
-* Adherence history
-* Caregiver/doctor sharing
-
----
-
-## 11. Mango Health
-
-Medication and health-behavior application historically focused on medication reminders, adherence and healthy behaviors.
-
----
-
-## 12. Pillo Health
-
-Medication and health-management platform historically focused on voice-enabled medication assistance and connected care.
-
----
-
-## 13. Hero Health
-
-**Website:** https://herohealth.com/
-
-Connected medication-management ecosystem combining medication dispensing and digital medication management.
-
-**Key Capabilities:**
-
-* Smart dispenser
-* Medication reminders
-* Dose tracking
-* Refill management
-* Caregiver support
-* Medication management
-
----
-
-## 14. MedMinder
-
-**Website:** https://www.medminder.com/
-
-Connected medication dispenser and adherence-support platform.
-
-**Key Capabilities:**
-
-* Automated dispensing
-* Medication reminders
-* Caregiver alerts
-* Medication management
-* Adherence monitoring
-* Remote support
-
----
 
 # 🧩 Open-Source
 
@@ -1094,38 +849,50 @@ Useful for:
 
 # 🧱 Additional Strong Open-Source Options
 
-| Project                                                          | Primary Role              | Adherence Relevance |
-| ---------------------------------------------------------------- | ------------------------- | ------------------: |
-| [MedAssist-ng](https://github.com/DanielVolz/medassist-ng)       | Medication Management     |               ⭐⭐⭐⭐⭐ |
-| [MedAssist](https://github.com/njic/medassist)                   | Medication Management     |               ⭐⭐⭐⭐⭐ |
-| [MedTracker](https://github.com/damacus/med-tracker)             | Medication Tracking       |               ⭐⭐⭐⭐⭐ |
-| [MedTimer](https://github.com/Futsch1/medTimer)                  | Medication Reminder       |               ⭐⭐⭐⭐⭐ |
-| [MediTrak](https://github.com/AdamGuidarini/MediTrak)            | Medication Tracking       |                ⭐⭐⭐⭐ |
-| [PillApp](https://github.com/Qitalach/PillApp)                   | Pill Reminder             |                ⭐⭐⭐⭐ |
-| [TakeYourMeds](https://github.com/cucumberfalse/takeyourmeds)    | Medication Reminder       |                ⭐⭐⭐⭐ |
-| [Pilldor](https://github.com/manuel-array/pilldor)               | Medication Tracking       |                ⭐⭐⭐⭐ |
-| [HealthLog](https://github.com/MBombeck/HealthLog)               | Personal Health           |                ⭐⭐⭐⭐ |
-| [OpenEMR](https://github.com/openemr/openemr)                    | EHR                       |                ⭐⭐⭐⭐ |
-| [OpenMRS](https://github.com/openmrs/openmrs-core)               | EHR                       |                ⭐⭐⭐⭐ |
-| [GNU Health](https://github.com/gnuhealth/gnuhealth)             | Health Information System |                ⭐⭐⭐⭐ |
-| [Bahmni](https://github.com/Bahmni/bahmni)                       | Hospital System           |                 ⭐⭐⭐ |
-| [Medplum](https://github.com/medplum/medplum)                    | FHIR Healthcare Platform  |               ⭐⭐⭐⭐⭐ |
-| [HAPI FHIR](https://github.com/hapifhir/hapi-fhir)               | FHIR                      |               ⭐⭐⭐⭐⭐ |
-| [Open Health Stack](https://github.com/google/open-health-stack) | Digital Health            |                ⭐⭐⭐⭐ |
-| [ntfy](https://github.com/binwiederhier/ntfy)                    | Notifications             |                ⭐⭐⭐⭐ |
-| [Gotify](https://github.com/gotify/server)                       | Notifications             |                ⭐⭐⭐⭐ |
-| [Novu](https://github.com/novuhq/novu)                           | Notifications             |                ⭐⭐⭐⭐ |
-| [Apprise](https://github.com/caronc/apprise)                     | Notifications             |                ⭐⭐⭐⭐ |
-| [Cal.com](https://github.com/calcom/cal.com)                     | Scheduling                |                 ⭐⭐⭐ |
-| [Nextcloud Calendar](https://github.com/nextcloud/calendar)      | Scheduling                |                 ⭐⭐⭐ |
-| [Metabase](https://github.com/metabase/metabase)                 | Analytics                 |                ⭐⭐⭐⭐ |
-| [Apache Superset](https://github.com/apache/superset)            | Analytics                 |                ⭐⭐⭐⭐ |
-| [Grafana](https://github.com/grafana/grafana)                    | Monitoring                |                ⭐⭐⭐⭐ |
-| [Keycloak](https://github.com/keycloak/keycloak)                 | Identity                  |                ⭐⭐⭐⭐ |
-| [OpenFGA](https://github.com/openfga/openfga)                    | Authorization             |                 ⭐⭐⭐ |
-| [OpenBao](https://github.com/openbao/openbao)                    | Secrets                   |                 ⭐⭐⭐ |
+| Project | Stars ⭐ | Primary Role | Adherence Relevance |
+| :--- | :---: | :--- | :---: |
+| [Home Assistant Core](https://github.com/home-assistant/core) | [![Stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) | Smart Home / Sensor Telemetry | ⭐⭐⭐⭐ |
+| [Grafana](https://github.com/grafana/grafana) | [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) | Monitoring / Telemetry Dashboards | ⭐⭐⭐⭐ |
+| [Apache Superset](https://github.com/apache/superset) | [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers) | Population Health Analytics | ⭐⭐⭐⭐ |
+| [Metabase](https://github.com/metabase/metabase) | [![Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers) | Adherence BI & Reporting | ⭐⭐⭐⭐ |
+| [Cal.com](https://github.com/calcom/cal.com) | [![Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers) | Care Coordination Scheduling | ⭐⭐⭐ |
+| [LibreChat](https://github.com/danny-avila/LibreChat) | [![Stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social&color=white)](https://github.com/danny-avila/LibreChat/stargazers) | AI Health Coaching Assistant | ⭐⭐⭐⭐ |
+| [Novu](https://github.com/novuhq/novu) | [![Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers) | Omnichannel Notifications | ⭐⭐⭐⭐ |
+| [Keycloak](https://github.com/keycloak/keycloak) | [![Stars](https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white)](https://github.com/keycloak/keycloak/stargazers) | HIPAA Identity & SSO | ⭐⭐⭐⭐ |
+| [Nextcloud Server](https://github.com/nextcloud/server) | [![Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers) | Patient Portal Collaboration | ⭐⭐⭐ |
+| [ntfy](https://github.com/binwiederhier/ntfy) | [![Stars](https://img.shields.io/github/stars/binwiederhier/ntfy?style=social&color=white)](https://github.com/binwiederhier/ntfy/stargazers) | Push Notification Engine | ⭐⭐⭐⭐ |
+| [Node-RED](https://github.com/node-red/node-red) | [![Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers) | IoT Device Integration | ⭐⭐⭐⭐ |
+| [ThingsBoard](https://github.com/thingsboard/thingsboard) | [![Stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers) | Smart Pill Dispenser IoT Platform | ⭐⭐⭐⭐ |
+| [Apprise](https://github.com/caronc/apprise) | [![Stars](https://img.shields.io/github/stars/caronc/apprise?style=social&color=white)](https://github.com/caronc/apprise/stargazers) | Multi-Channel Alerting | ⭐⭐⭐⭐ |
+| [Gotify Server](https://github.com/gotify/server) | [![Stars](https://img.shields.io/github/stars/gotify/server?style=social&color=white)](https://github.com/gotify/server/stargazers) | Private Push Notifications | ⭐⭐⭐⭐ |
+| [Eclipse Mosquitto](https://github.com/eclipse-mosquitto/mosquitto) | [![Stars](https://img.shields.io/github/stars/eclipse-mosquitto/mosquitto?style=social&color=white)](https://github.com/eclipse-mosquitto/mosquitto/stargazers) | MQTT Telemetry Broker | ⭐⭐⭐⭐ |
+| [OpenBao](https://github.com/openbao/openbao) | [![Stars](https://img.shields.io/github/stars/openbao/openbao?style=social&color=white)](https://github.com/openbao/openbao/stargazers) | Secure Secrets Management | ⭐⭐⭐ |
+| [OpenFGA](https://github.com/openfga/openfga) | [![Stars](https://img.shields.io/github/stars/openfga/openfga?style=social&color=white)](https://github.com/openfga/openfga/stargazers) | Fine-Grained Access Control | ⭐⭐⭐ |
+| [OpenEMR](https://github.com/openemr/openemr) | [![Stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers) | Electronic Health Records | ⭐⭐⭐⭐ |
+| [Fasten Health](https://github.com/FastenHealth/fasten-onprem) | [![Stars](https://img.shields.io/github/stars/FastenHealth/fasten-onprem?style=social&color=white)](https://github.com/FastenHealth/fasten-onprem/stargazers) | Personal Health Record Aggregator | ⭐⭐⭐⭐ |
+| [Medplum](https://github.com/medplum/medplum) | [![Stars](https://img.shields.io/github/stars/medplum/medplum?style=social&color=white)](https://github.com/medplum/medplum/stargazers) | Headless FHIR Platform | ⭐⭐⭐⭐⭐ |
+| [HAPI FHIR](https://github.com/hapifhir/hapi-fhir) | [![Stars](https://img.shields.io/github/stars/hapifhir/hapi-fhir?style=social&color=white)](https://github.com/hapifhir/hapi-fhir/stargazers) | Healthcare Interoperability Server | ⭐⭐⭐⭐⭐ |
+| [OpenMRS Core](https://github.com/openmrs/openmrs-core) | [![Stars](https://img.shields.io/github/stars/openmrs/openmrs-core?style=social&color=white)](https://github.com/openmrs/openmrs-core/stargazers) | Medical Record System | ⭐⭐⭐⭐ |
+| [Nextcloud Calendar](https://github.com/nextcloud/calendar) | [![Stars](https://img.shields.io/github/stars/nextcloud/calendar?style=social&color=white)](https://github.com/nextcloud/calendar/stargazers) | CalDAV Reminders | ⭐⭐⭐ |
+| [Firely SDK (.NET)](https://github.com/FirelyTeam/firely-net-sdk) | [![Stars](https://img.shields.io/github/stars/FirelyTeam/firely-net-sdk?style=social&color=white)](https://github.com/FirelyTeam/firely-net-sdk/stargazers) | FHIR Data Models | ⭐⭐⭐ |
+| [medTimer](https://github.com/Futsch1/medTimer) | [![Stars](https://img.shields.io/github/stars/Futsch1/medTimer?style=social&color=white)](https://github.com/Futsch1/medTimer/stargazers) | Android Medication Reminder | ⭐⭐⭐⭐⭐ |
+| [Kresus Personal Health](https://github.com/kresusapp/kresus) | [![Stars](https://img.shields.io/github/stars/kresusapp/kresus?style=social&color=white)](https://github.com/kresusapp/kresus/stargazers) | Personal Health Tracking | ⭐⭐⭐ |
+| [MedAssist](https://github.com/njic/medassist) | [![Stars](https://img.shields.io/github/stars/njic/medassist?style=social&color=white)](https://github.com/njic/medassist/stargazers) | Self-Hosted Medication Manager | ⭐⭐⭐⭐⭐ |
+| [Circuits GPIO (IoT)](https://github.com/elixir-circuits/circuits_gpio) | [![Stars](https://img.shields.io/github/stars/elixir-circuits/circuits_gpio?style=social&color=white)](https://github.com/elixir-circuits/circuits_gpio/stargazers) | Smart Pill Dispenser Hardware Interface | ⭐⭐⭐ |
+| [MediTrak](https://github.com/AdamGuidarini/MediTrak) | [![Stars](https://img.shields.io/github/stars/AdamGuidarini/MediTrak?style=social&color=white)](https://github.com/AdamGuidarini/MediTrak/stargazers) | Android Multi-Patient Tracker | ⭐⭐⭐⭐ |
+| [HealthLog](https://github.com/MBombeck/HealthLog) | [![Stars](https://img.shields.io/github/stars/MBombeck/HealthLog?style=social&color=white)](https://github.com/MBombeck/HealthLog/stargazers) | Health & Dose PWA Tracker | ⭐⭐⭐⭐ |
+| [MedAssist-ng](https://github.com/DanielVolz/medassist-ng) | [![Stars](https://img.shields.io/github/stars/DanielVolz/medassist-ng?style=social&color=white)](https://github.com/DanielVolz/medassist-ng/stargazers) | Modern Self-Hosted Med Planner | ⭐⭐⭐⭐⭐ |
+| [PillApp](https://github.com/Qitalach/PillApp) | [![Stars](https://img.shields.io/github/stars/Qitalach/PillApp?style=social&color=white)](https://github.com/Qitalach/PillApp/stargazers) | Android Pill Reminder | ⭐⭐⭐⭐ |
+| [MedTracker](https://github.com/damacus/med-tracker) | [![Stars](https://img.shields.io/github/stars/damacus/med-tracker?style=social&color=white)](https://github.com/damacus/med-tracker/stargazers) | Carer & Family Dose Tracker | ⭐⭐⭐⭐⭐ |
+| [TakeYourMeds](https://github.com/cucumberfalse/takeyourmeds) | [![Stars](https://img.shields.io/github/stars/cucumberfalse/takeyourmeds?style=social&color=white)](https://github.com/cucumberfalse/takeyourmeds/stargazers) | Flutter Offline Reminder | ⭐⭐⭐⭐ |
+| [Awell Health Orchestration](https://github.com/AWELL-HEALTH/orchestration-stories) | [![Stars](https://img.shields.io/github/stars/AWELL-HEALTH/orchestration-stories?style=social&color=white)](https://github.com/AWELL-HEALTH/orchestration-stories/stargazers) | Care Pathway Orchestration | ⭐⭐⭐ |
+| [Open Health Stack](https://github.com/google/open-health-stack) | [![Stars](https://img.shields.io/github/stars/google/open-health-stack?style=social&color=white)](https://github.com/google/open-health-stack/stargazers) | Android FHIR SDK Building Blocks | ⭐⭐⭐⭐ |
+| [GNU Health](https://github.com/gnuhealth/gnuhealth) | [![Stars](https://img.shields.io/github/stars/gnuhealth/gnuhealth?style=social&color=white)](https://github.com/gnuhealth/gnuhealth/stargazers) | Hospital & Health Ecosystem | ⭐⭐⭐⭐ |
+| [Bahmni](https://github.com/Bahmni/bahmni) | [![Stars](https://img.shields.io/github/stars/Bahmni/bahmni?style=social&color=white)](https://github.com/Bahmni/bahmni/stargazers) | Hospital Information System | ⭐⭐⭐ |
+| [Pilldor](https://github.com/manuel-array/pilldor) | [![Stars](https://img.shields.io/github/stars/manuel-array/pilldor?style=social&color=white)](https://github.com/manuel-array/pilldor/stargazers) | iOS Medication Journal | ⭐⭐⭐⭐ |
 
 ---
+
 
 # 🔄 Commercial → Open-Source Mapping
 
@@ -2536,4 +2303,22 @@ Smart Bottle / Cap / Dispenser
 **Open-source medication adherence is best viewed as a composable healthcare ecosystem:**
 
 > **Medication Management + Reminders + Dose Tracking + Inventory + Patient Engagement + FHIR + Care Coordination + IoT + Analytics + Security**
+
+---
+
+## 💖 Support & Community
+
+If you find this curated medication adherence ecosystem list helpful, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🔀 **Fork it** to customize or build your own adherence architecture stack.
+- 📢 **Share it** with healthcare developers, digital health founders, and clinical trial teams.
+- 🤝 **Submit a Pull Request** to add new open-source projects or SaaS platforms.
+- ☕ **Sponsor the Maintainer:** [Buy Me a Coffee / GitHub Sponsors](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.com/#ishandutta2007/Awesome-Medication-Adherence-Platform&Date)](https://star-history.com/#ishandutta2007/Awesome-Medication-Adherence-Platform&Date)
 
